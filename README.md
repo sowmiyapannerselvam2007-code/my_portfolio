@@ -43,20 +43,6 @@ To design and develop a responsive personal portfolio website using HTML and CSS
 
 ---
 
-## Output
-
-### Portfolio Website Screenshot
-
-![Output](output/output.1.png)
-
-![Output](output/output.2.png)
-
-![Output](output/output.3.png)
-
-![Output](output/output.4.png)
-
----
-
 ## Result
 
 The portfolio website was successfully designed and developed using HTML and CSS. It provides a responsive, attractive, and user-friendly interface to showcase personal information, skills, projects, and contact details.
