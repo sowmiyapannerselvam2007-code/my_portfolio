@@ -47,9 +47,9 @@ To design and develop a responsive personal portfolio website using HTML and CSS
 
 ### Portfolio Website Screenshot
 
-![Output 1](output/output 1.png)
+![Output 1](output/output1.png)
 
-![Output 2](output/output 2.png)
+![Output 2](output/output2.png)
 
 ![Output](output/output1.png)
 
